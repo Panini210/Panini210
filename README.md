@@ -53,8 +53,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31z62jf5pdkrhxxga7ipq22ulrie?si=f856c3644ebb4dff">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31z62jf5pdkrhxxga7ipq22ulrie?si=f856c3644ebb4dff&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Pedro Panini">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Pedro%20Panini&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
