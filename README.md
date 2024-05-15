@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Panini210 (Pedro H M Custodio), currently graduating on biological sciences.
+- 👋 Hello there, I’m Pedro H M Custodio
+- 
 - 👀 I’m interested in using computers to understand the nature.
 - 🌱 I’m currently learning R and Python.
 - 💞️ I’m looking to collaborate on projects which envolve biological sciences, like Species distribution models and phylogenetic analysis.
