@@ -53,9 +53,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Pedro Panini">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Pedro%20Panini&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z62jf5pdkrhxxga7ipq22ulrie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
