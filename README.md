@@ -51,8 +51,7 @@
 </div>
 
 ###
-
 <div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z62jf5pdkrhxxga7ipq22ulrie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31z62jf5pdkrhxxga7ipq22ulrie&unique={true|1|on|yes})
 
 ###
