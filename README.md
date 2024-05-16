@@ -51,7 +51,8 @@
 </div>
 
 ###
-<div align="center">
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31z62jf5pdkrhxxga7ipq22ulrie&unique={true|1|on|yes})
+
+<![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pedropanini&unique={true|1|on|yes})>
+
 
 ###
